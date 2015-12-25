@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HDT-Cpp</string>
+    <string name="BotonConsulta">Buscar</string>
+    <string name="sujeto_hint">Introduzca el Sujeto de la búsqueda</string>
+    <string name="predicado_hint">Introduzca el Predicado de la búsqueda</string>
+    <string name="objeto_hint">Introduzca el Objeto de la búsqueda</string>
+    <string name="sujeto">Sujeto: </string>
+    <string name="predicado">Predicado: </string>
+    <string name="objeto">Objeto: </string>
+    <string name="sujetoActor">Identificador: </string>
+    <string name="objetoActor">Nombre: </string>
+    <string name="BotonTest">Ejecutar Test</string>
+    <string name="numeroCons">Este campo muestra el número de consultas que se realizan al pulsar un botón.</string>
+    <string name="tiempoEj">Aqui se mostrará el tiempo que ha tardado la aplicación en ejecutar el número de consultas que aparece en la parte superior.</string>
+    <string name="tiempoTot">Este campo mostrará sumará el tiempo que tarda en ejecutarse cada lote de consultas.</string>
+    <string name="numEje">Aqui mostraremos el número de veces que hemos ejecutado el lote de consultas.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_consulta_avanzada">Consulta Avanzada</string>
+    <string name="title_activity_pantalla_resultado">Listado de Resultados</string>
+    <string name="title_activity_test_consumo">Test de Consumo</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="app_splash">SplashActivity</string>
+    <string name="title_activity_pantalla_peliculas">Catálogo de Películas</string>
+    <string name="title_activity_pantalla_actor">Listado de Actores</string>
+    <string name="title_activity_pantalla__director">Listado de Directores</string>
+    <string name="title_activity_pantalla_resultado_director">Películas que ha dirigido</string>
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hdt.proyecto.cpp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:name=".ApplicationHDTC"
+        android:allowBackup="true"
+        android:icon="@drawable/icono_app"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:largeHeap="true" >
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Pantalla_inicio"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Pantalla_consulta_avanzada"
+            android:label="@string/title_activity_consulta_avanzada" >
+        </activity>
+        <activity
+            android:name=".Pantalla_resultado"
+            android:label="@string/title_activity_pantalla_resultado" >
+        </activity>
+        <activity
+            android:name=".TestConsumo"
+            android:label="@string/title_activity_test_consumo" >
+        </activity>
+        <activity
+            android:name=".Pantalla_pelicula"
+            android:label="@string/title_activity_pantalla_peliculas" >
+        </activity>
+        <activity
+            android:name=".Pantalla_actor"
+            android:label="@string/title_activity_pantalla_actor" >
+        </activity>
+        <activity
+            android:name=".Pantalla_director"
+            android:label="@string/title_activity_pantalla__director" >
+        </activity>
+        <activity
+            android:name=".Pantalla_resultado_director"
+            android:label="@string/title_activity_pantalla_resultado_director" >
+        </activity>
+    </application>
+
+</manifest>

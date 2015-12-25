@@ -1,0 +1,500 @@
+http://data.linkedmdb.org/resource/film_cut/22618;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000080bfb73;1
+http://data.linkedmdb.org/resource/performance/83500;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000070bc4a4;1
+http://data.linkedmdb.org/resource/performance/141721;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000099a1dac;1
+http://data.linkedmdb.org/resource/performance/74260;0;"performance #74260";1
+http://data.linkedmdb.org/resource/actor/4864;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000010fddd3;1
+http://data.linkedmdb.org/resource/film/560;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000016efd1;1
+http://data.linkedmdb.org/resource/interlink/34117;0;"34117 (Interlink)";1
+http://data.linkedmdb.org/resource/film_character/12928;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000fbdc4d3;1
+http://data.linkedmdb.org/resource/film/89156;0;"89156"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film_cut/40913;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000efcb80a;1
+http://data.linkedmdb.org/resource/performance/59147;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000005a57edb;1
+http://data.linkedmdb.org/resource/film/7522;0;http://data.linkedmdb.org/resource/performance/4143;1
+http://data.linkedmdb.org/resource/music_contributor/4836;0;"Fayray (Music Contributor)";1
+http://data.linkedmdb.org/resource/performance/59188;0;"performance #59188";1
+http://data.linkedmdb.org/resource/interlink/129252;0;"129252"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/director/536;0;"J. Kristian O'Daugherty (Director)";1
+http://data.linkedmdb.org/resource/interlink/111626;0;http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/D\u00C3\u00A9borah_Fran\u00C3\u00A7ois;1
+http://data.linkedmdb.org/resource/performance/67778;0;"performance #67778";1
+http://data.linkedmdb.org/resource/film/56223;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000008bf4333;1
+http://data.linkedmdb.org/resource/performance/119034;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000008fd2873;1
+http://data.linkedmdb.org/resource/performance/49164;0;"Wendell Pierce";1
+http://data.linkedmdb.org/resource/performance/135908;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000009374ae5;1
+http://data.linkedmdb.org/resource/interlink/75235;0;"75235"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/916;0;"2000-09-19";2
+http://data.linkedmdb.org/resource/actor/19191;0;http://dbpedia.org/resource/Janice_Rule;1
+http://data.linkedmdb.org/resource/film_film_distributor_relationship/1251;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000a9b800d;1
+http://data.linkedmdb.org/resource/interlink/57134;0;"57134 (Interlink)";1
+http://data.linkedmdb.org/resource/film/78241;0;"78241"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/125005;0;"125005 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/22102;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000110cf58;1
+http://data.linkedmdb.org/resource/performance/182184;0;"Mozael Silveira";1
+http://data.linkedmdb.org/resource/performance/38625;0;"38625"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/80668;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000beb193e;1
+http://data.linkedmdb.org/resource/film_genre/52;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000005bcb2b8;1
+http://data.linkedmdb.org/resource/film_cut/3921;0;"Film Cut #3921";1
+http://data.linkedmdb.org/resource/interlink/86194;0;"86194"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/194095;0;"performance #194095";1
+http://data.linkedmdb.org/resource/actor/34897;0;http://data.linkedmdb.org/resource/performance/155725;1
+http://data.linkedmdb.org/resource/writer/20271;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000006eb8f8d;1
+http://data.linkedmdb.org/resource/performance/183462;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000fc3c01c;1
+http://data.linkedmdb.org/resource/actor/5163;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000011021ee;1
+http://data.linkedmdb.org/resource/performance/75611;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000006e78966;1
+http://data.linkedmdb.org/resource/film/19431;0;http://dbpedia.org/resource/The_Surrogate_Woman;1
+http://data.linkedmdb.org/resource/film_cut/4298;0;"Film Cut #4298";1
+http://data.linkedmdb.org/resource/director/270;0;"Ernest B. Schoedsack (Director)";1
+http://data.linkedmdb.org/resource/performance/21219;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000110a240;1
+http://data.linkedmdb.org/resource/film_crew_gig/12513;0;"Film Crew Gig #12513";1
+http://data.linkedmdb.org/resource/film/8505;0;http://data.linkedmdb.org/resource/actor/50655;1
+http://data.linkedmdb.org/resource/interlink/66118;0;"66118 (Interlink)";1
+http://data.linkedmdb.org/resource/actor/65148;0;"Yves Massard (Actor)";1
+http://data.linkedmdb.org/resource/performance/144374;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000009f399bc;1
+http://data.linkedmdb.org/resource/actor/37223;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000000593719;1
+http://data.linkedmdb.org/resource/director/15702;0;http://data.linkedmdb.org/resource/film/54905;1
+http://data.linkedmdb.org/resource/performance/145965;0;"performance #145965";1
+http://data.linkedmdb.org/resource/interlink/92599;0;"92599 (Interlink)";1
+http://data.linkedmdb.org/resource/interlink/65636;0;"65636 (Interlink)";1
+http://data.linkedmdb.org/resource/actor/62518;0;"Daniel Sador";1
+http://data.linkedmdb.org/resource/actor/6434;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000001118ef9;1
+http://data.linkedmdb.org/resource/actor/64861;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000c61b9a3;1
+http://data.linkedmdb.org/resource/performance/156162;0;"Treat Williams";1
+http://data.linkedmdb.org/resource/performance/42743;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000594fafa;1
+http://data.linkedmdb.org/resource/film/76905;0;http://data.linkedmdb.org/resource/performance/160486;1
+http://data.linkedmdb.org/resource/film/2713;0;"1988,1987";2
+http://data.linkedmdb.org/resource/performance/122298;0;"Men Not Allowed";1
+http://data.linkedmdb.org/resource/film/17251;0;http://data.linkedmdb.org/resource/writer/23536;1
+http://data.linkedmdb.org/resource/director/17968;0;http://data.linkedmdb.org/resource/film/69130;1
+http://data.linkedmdb.org/resource/performance/125200;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000900df09;1
+http://data.linkedmdb.org/resource/interlink/107244;0;http://mpii.de/yago/resource/Samy_Naceri;1
+http://data.linkedmdb.org/resource/film_crew_gig/15072;0;"/guid/9202a8c04000641f80000000130f2ad0";1
+http://data.linkedmdb.org/resource/director/12157;0;http://data.linkedmdb.org/resource/film/64338;1
+http://data.linkedmdb.org/resource/performance/187192;0;"performance #187192";1
+http://data.linkedmdb.org/resource/interlink/93330;0;"93330 (Interlink)";1
+http://data.linkedmdb.org/resource/actor/64519;0;http://data.linkedmdb.org/resource/performance/189853;1
+http://data.linkedmdb.org/resource/interlink/66101;0;"66101 (Interlink)";1
+http://data.linkedmdb.org/resource/interlink/103825;0;"103825 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/107730;0;"performance #107730";1
+http://data.linkedmdb.org/resource/interlink/154529;0;"154529 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/34084;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000011310c6;1
+http://data.linkedmdb.org/resource/film/19993;0;http://dbpedia.org/resource/Flic_Story;1
+http://data.linkedmdb.org/resource/performance/68113;0;"performance #68113";1
+http://data.linkedmdb.org/resource/performance/73102;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000005a62266;1
+http://data.linkedmdb.org/resource/actor/6753;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000111ecf9;1
+http://data.linkedmdb.org/resource/film/12357;0;http://data.linkedmdb.org/resource/actor/55536;1
+http://data.linkedmdb.org/resource/film_crew_gig/15465;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000130f3a38;1
+http://data.linkedmdb.org/resource/performance/14835;0;"performance #14835";1
+http://data.linkedmdb.org/resource/producer/10506;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000029fbe6;1
+http://data.linkedmdb.org/resource/interlink/14930;0;http://data.linkedmdb.org/resource/film/32154;1
+http://data.linkedmdb.org/resource/director/12157;0;http://data.linkedmdb.org/resource/film/15833;1
+http://data.linkedmdb.org/resource/film/91053;0;http://data.linkedmdb.org/resource/performance/180804;1
+http://data.linkedmdb.org/resource/interlink/7769;0;http://data.linkedmdb.org/resource/film/17530;1
+http://data.linkedmdb.org/resource/interlink/39563;0;"39563 (Interlink)";1
+http://data.linkedmdb.org/resource/film_character/2440;0;"2440"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/actor/29800;0;http://data.linkedmdb.org/resource/performance/37996;1
+http://data.linkedmdb.org/resource/performance/13271;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000010f0f50;1
+http://data.linkedmdb.org/resource/film/4269;0;http://data.linkedmdb.org/resource/film_cut/8021;1
+http://data.linkedmdb.org/resource/performance/39301;0;"performance #39301";1
+http://data.linkedmdb.org/resource/film/45232;0;http://data.linkedmdb.org/resource/performance/79166;1
+http://data.linkedmdb.org/resource/film_cut/44877;0;"157.0";1
+http://data.linkedmdb.org/resource/film/5590;0;http://data.linkedmdb.org/resource/actor/48310;1
+http://data.linkedmdb.org/resource/film/51213;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000005abbb5d;1
+http://data.linkedmdb.org/resource/interlink/43170;0;"0.813233778691252";1
+http://data.linkedmdb.org/resource/performance/33915;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000011308a2;1
+http://data.linkedmdb.org/resource/film/84538;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000c5008ed;1
+http://data.linkedmdb.org/resource/performance/191695;0;"191695"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/72153;0;http://data.linkedmdb.org/resource/performance/148310;1
+http://data.linkedmdb.org/resource/performance/135164;0;"performance #135164";1
+http://data.linkedmdb.org/resource/performance/196791;0;"196791"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/138293;0;"performance #138293";1
+http://data.linkedmdb.org/resource/film/48312;0;http://data.linkedmdb.org/resource/performance/6792;1
+http://data.linkedmdb.org/resource/interlink/35796;0;"35796 (Interlink)";1
+http://data.linkedmdb.org/resource/actor/60227;0;"Kimi Tushima (Actor)";1
+http://data.linkedmdb.org/resource/actor/42988;0;"Archie Kao (Actor)";1
+http://data.linkedmdb.org/resource/performance/185345;0;"performance #185345";1
+http://data.linkedmdb.org/resource/interlink/151888;0;"151888"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/actor/47074;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000000d61539;1
+http://data.linkedmdb.org/resource/actor/184;0;http://data.linkedmdb.org/resource/performance/172584;1
+http://data.linkedmdb.org/resource/actor/46842;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000000d1f55c;1
+http://data.linkedmdb.org/resource/performance/174986;0;"performance #174986";1
+http://data.linkedmdb.org/resource/performance/121299;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000009004a7a;1
+http://data.linkedmdb.org/resource/film/77177;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000b54791a;1
+http://data.linkedmdb.org/resource/actor/32979;0;"32979"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/88385;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000070c7c16;1
+http://data.linkedmdb.org/resource/writer/4298;0;"Ryan Carrassi";1
+http://data.linkedmdb.org/resource/interlink/113768;0;"113768 (Interlink)";1
+http://data.linkedmdb.org/resource/writer/4823;0;"Josef SkÃ¡cel";1
+http://data.linkedmdb.org/resource/performance/10128;0;http://data.linkedmdb.org/resource/film_character/6877;1
+http://data.linkedmdb.org/resource/performance/127808;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000090142b9;1
+http://data.linkedmdb.org/resource/interlink/130839;0;http://www4.wiwiss.fu-berlin.de/bookmashup/persons/John%2BHay%2BBeith;1
+http://data.linkedmdb.org/resource/performance/161719;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000ba00345;1
+http://data.linkedmdb.org/resource/film/77162;0;http://data.linkedmdb.org/resource/performance/157823;1
+http://data.linkedmdb.org/resource/film/38314;0;http://data.linkedmdb.org/resource/actor/49652;1
+http://data.linkedmdb.org/resource/interlink/53228;0;http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Assassination_of_Richard_Nixon;1
+http://data.linkedmdb.org/resource/interlink/87339;0;"87339 (Interlink)";1
+http://data.linkedmdb.org/resource/film_character/15820;0;"Rabbi Belsky (Film Character)";1
+http://data.linkedmdb.org/resource/interlink/116549;0;"116549 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/38756;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000113f338;1
+http://data.linkedmdb.org/resource/director/9201;0;http://data.linkedmdb.org/resource/film/16414;1
+http://data.linkedmdb.org/resource/actor/29736;0;"Gillian Anderson (Actor)";1
+http://data.linkedmdb.org/resource/interlink/12299;0;"12299"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/151392;0;http://data.linkedmdb.org/resource/film/23376;1
+http://data.linkedmdb.org/resource/film_cut/25817;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000092c30e0;1
+http://data.linkedmdb.org/resource/performance/7371;0;"performance #7371";1
+http://data.linkedmdb.org/resource/performance/161524;0;"Amangeldi Nurzhanbayev";1
+http://data.linkedmdb.org/resource/performance/89505;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000070ca334;1
+http://data.linkedmdb.org/resource/producer/2722;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000010f148d;1
+http://data.linkedmdb.org/resource/performance/191220;0;"191220"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/107203;0;http://mpii.de/yago/resource/Saima;1
+http://data.linkedmdb.org/resource/performance/194596;0;http://www.freebase.com/view/guid/9202a8c04000641f800000001300149f;1
+http://data.linkedmdb.org/resource/film_character/428;0;"428"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/106592;0;"performance #106592";1
+http://data.linkedmdb.org/resource/film_cut/21144;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000008092496;1
+http://data.linkedmdb.org/resource/interlink/55407;0;"55407 (Interlink)";1
+http://data.linkedmdb.org/resource/film/65475;0;http://data.linkedmdb.org/resource/performance/130899;1
+http://data.linkedmdb.org/resource/interlink/41164;0;http://data.linkedmdb.org/resource/film/9406;1
+http://data.linkedmdb.org/resource/film/45506;0;"1990-04-13";2
+http://data.linkedmdb.org/resource/film/93741;0;http://data.linkedmdb.org/resource/director/21187;1
+http://data.linkedmdb.org/resource/film/2421;0;http://data.linkedmdb.org/resource/performance/84318;1
+http://data.linkedmdb.org/resource/performance/69837;0;"performance #69837";1
+http://data.linkedmdb.org/resource/film/1545;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000000399cb7;1
+http://data.linkedmdb.org/resource/film/76014;0;"Who's Killing the Pets?";2
+http://data.linkedmdb.org/resource/performance/124421;0;"performance #124421";1
+http://data.linkedmdb.org/resource/film_cut/40450;0;"Film Cut #40450";1
+http://data.linkedmdb.org/resource/music_contributor/5992;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000035bf960;1
+http://data.linkedmdb.org/resource/film_job/1326;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000124df019;1
+http://data.linkedmdb.org/resource/performance/171034;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000c638f27;1
+http://data.linkedmdb.org/resource/film_crew_gig/10090;0;"Film Crew Gig #10090";1
+http://data.linkedmdb.org/resource/performance/17;0;"performance #17";1
+http://data.linkedmdb.org/resource/actor/40351;0;http://data.linkedmdb.org/resource/performance/96881;1
+http://data.linkedmdb.org/resource/film_cut/29774;0;"Film Cut #29774";1
+http://data.linkedmdb.org/resource/actor/29962;0;"Rosemary Clooney (Actor)";1
+http://data.linkedmdb.org/resource/film_cut/43372;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000fd97150;1
+http://data.linkedmdb.org/resource/film/4634;0;http://data.linkedmdb.org/resource/performance/9903;1
+http://data.linkedmdb.org/resource/film_crew_gig/7928;0;"Film Crew Gig #7928";1
+http://data.linkedmdb.org/resource/performance/10116;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000010e69b7;1
+http://data.linkedmdb.org/resource/performance/191208;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000012e1cf0e;1
+http://data.linkedmdb.org/resource/performance/71317;0;"L'Intrus";1
+http://data.linkedmdb.org/resource/actor/32963;0;http://data.linkedmdb.org/resource/performance/48223;1
+http://data.linkedmdb.org/resource/performance/184492;0;http://data.linkedmdb.org/resource/film_character/13073;1
+http://data.linkedmdb.org/resource/performance/116451;0;"performance #116451";1
+http://data.linkedmdb.org/resource/interlink/91252;0;"91252 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/26164;0;"Shampoo";1
+http://data.linkedmdb.org/resource/interlink/64603;0;http://data.linkedmdb.org/resource/film/27434;1
+http://data.linkedmdb.org/resource/actor/39172;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000006da65e;1
+http://data.linkedmdb.org/resource/interlink/99744;0;http://mpii.de/yago/resource/Doug_Jones_%28actor%29;1
+http://data.linkedmdb.org/resource/film/18635;0;http://data.linkedmdb.org/resource/performance/154936;1
+http://data.linkedmdb.org/resource/writer/13471;0;"P. G. Wodehouse";1
+http://data.linkedmdb.org/resource/performance/157311;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000b5d8ee1;1
+http://data.linkedmdb.org/resource/performance/117992;0;"performance #117992";1
+http://data.linkedmdb.org/resource/actor/44482;0;"Guy Standing (Actor)";1
+http://data.linkedmdb.org/resource/actor/54090;0;"54090"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/68550;0;http://data.linkedmdb.org/resource/film/37232;1
+http://data.linkedmdb.org/resource/film/48475;0;http://data.linkedmdb.org/resource/performance/46134;1
+http://data.linkedmdb.org/resource/performance/6784;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000010db306;1
+http://data.linkedmdb.org/resource/performance/175716;0;"performance #175716";1
+http://data.linkedmdb.org/resource/actor/10104;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000047b81b1;1
+http://data.linkedmdb.org/resource/film/65278;0;http://data.linkedmdb.org/resource/production_company/281;1
+http://data.linkedmdb.org/resource/producer/11257;0;"11257"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/1468;0;"1468 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/35487;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000001135497;1
+http://data.linkedmdb.org/resource/film/57222;0;"We Meet at Tove's";2
+http://data.linkedmdb.org/resource/performance/12085;0;"Gangs of New York";1
+http://data.linkedmdb.org/resource/editor/2326;0;"Steven Soderbergh (Editor)";1
+http://data.linkedmdb.org/resource/director/1598;0;"K. Muralimohana Rao (Director)";1
+http://data.linkedmdb.org/resource/interlink/81019;0;"81019 (Interlink)";1
+http://data.linkedmdb.org/resource/director/19718;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000bebb2bc;1
+http://data.linkedmdb.org/resource/performance/93979;0;"performance #93979";1
+http://data.linkedmdb.org/resource/performance/20054;0;"20054"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/171727;0;"performance #171727";1
+http://data.linkedmdb.org/resource/film/37275;0;http://www.rottentomatoes.com/alias?type=imdbid&s=0417385;1
+http://data.linkedmdb.org/resource/film/19200;0;http://data.linkedmdb.org/resource/actor/54703;1
+http://data.linkedmdb.org/resource/interlink/58469;0;"58469"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/actor/40046;0;http://data.linkedmdb.org/resource/performance/84676;1
+http://data.linkedmdb.org/resource/actor/42712;0;http://data.linkedmdb.org/resource/performance/98881;1
+http://data.linkedmdb.org/resource/interlink/28123;0;http://data.linkedmdb.org/resource/film/21607;1
+http://data.linkedmdb.org/resource/writer/23195;0;"Ermek Tursunov";1
+http://data.linkedmdb.org/resource/film_film_distributor_relationship/2967;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000a9be455;1
+http://data.linkedmdb.org/resource/performance/113406;0;"113406"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/72062;0;"72062 (Interlink)";1
+http://data.linkedmdb.org/resource/interlink/145298;0;"145298"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/cinematographer/2398;0;"Eugen Schuhmacher (Cinematographer)";1
+http://data.linkedmdb.org/resource/film/44002;0;"44002"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film_cut/5472;0;"5472"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/22094;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000006b5887a;1
+http://data.linkedmdb.org/resource/performance/178125;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000f28cd52;1
+http://data.linkedmdb.org/resource/producer/17390;0;"Steve Makowski (Producer)";1
+http://data.linkedmdb.org/resource/interlink/46611;0;"46611"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film_film_distributor_relationship/9298;0;"film_film_distributor_relationship #9298";1
+http://data.linkedmdb.org/resource/interlink/97500;0;"97500 (Interlink)";1
+http://data.linkedmdb.org/resource/producer/14033;0;"Margreth Olin (Producer)";1
+http://data.linkedmdb.org/resource/interlink/86911;0;http://dbpedia.org/resource/Bruce_Baron;1
+http://data.linkedmdb.org/resource/film/64907;0;http://data.linkedmdb.org/resource/performance/131364;1
+http://data.linkedmdb.org/resource/actor/30244;0;"Larry David (Actor)";1
+http://data.linkedmdb.org/resource/performance/30245;0;"performance #30245";1
+http://data.linkedmdb.org/resource/performance/59894;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000005a5879c;1
+http://data.linkedmdb.org/resource/performance/159296;0;"Thiruda Thiruda";1
+http://data.linkedmdb.org/resource/actor/67289;0;"Scott Beehner (Actor)";1
+http://data.linkedmdb.org/resource/film/57239;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000008eb733d;1
+http://data.linkedmdb.org/resource/performance/175436;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000e5df005;1
+http://data.linkedmdb.org/resource/interlink/109539;0;"109539 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/182366;0;http://data.linkedmdb.org/resource/film_character/12700;1
+http://data.linkedmdb.org/resource/music_contributor/115;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000007be0cd;1
+http://data.linkedmdb.org/resource/actor/37942;0;"37942"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/21287;0;http://data.linkedmdb.org/resource/film_character/1446;1
+http://data.linkedmdb.org/resource/film/39645;0;http://data.linkedmdb.org/resource/writer/15144;1
+http://data.linkedmdb.org/resource/performance/190343;0;"performance #190343";1
+http://data.linkedmdb.org/resource/interlink/36382;0;http://data.linkedmdb.org/resource/film/37110;1
+http://data.linkedmdb.org/resource/film_film_distributor_relationship/8484;0;"film_film_distributor_relationship #8484";1
+http://data.linkedmdb.org/resource/film/61180;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000900d2bc;1
+http://data.linkedmdb.org/resource/performance/48550;0;"performance #48550";1
+http://data.linkedmdb.org/resource/film_film_distributor_relationship/2435;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000a9bbddf;1
+http://data.linkedmdb.org/resource/interlink/92002;0;"92002 (Interlink)";1
+http://data.linkedmdb.org/resource/actor/30693;0;http://data.linkedmdb.org/resource/performance/3534;1
+http://data.linkedmdb.org/resource/film_art_director/123;0;http://www.freebase.com/view/guid/9202a8c04000641f800000001206a531;1
+http://data.linkedmdb.org/resource/performance/6496;0;"Chasing Liberty";1
+http://data.linkedmdb.org/resource/performance/130326;0;"Ana SÃ¡nchez";1
+http://data.linkedmdb.org/resource/film_crew_gig/7488;0;"/guid/9202a8c04000641f8000000012894a8d";1
+http://data.linkedmdb.org/resource/film/65557;0;http://data.linkedmdb.org/resource/actor/56288;1
+http://data.linkedmdb.org/resource/film/42242;0;http://data.linkedmdb.org/resource/performance/28079;1
+http://data.linkedmdb.org/resource/performance/46018;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000595215b;1
+http://data.linkedmdb.org/resource/film/35569;0;http://dbpedia.org/resource/The_Last_Samurai;1
+http://data.linkedmdb.org/resource/interlink/1989;0;"1989 (Interlink)";1
+http://data.linkedmdb.org/resource/actor/39936;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000074b975;1
+http://data.linkedmdb.org/resource/film/71535;0;"71535"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/78667;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000b914ae1;1
+http://data.linkedmdb.org/resource/film/46432;0;http://data.linkedmdb.org/resource/writer/1289;1
+http://data.linkedmdb.org/resource/actor/10425;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000004fda914;1
+http://data.linkedmdb.org/resource/production_company/133;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000073aa92;1
+http://data.linkedmdb.org/resource/actor/29535;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000000021c9d;1
+http://data.linkedmdb.org/resource/performance/126186;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000090103fa;1
+http://data.linkedmdb.org/resource/actor/44475;0;"Zuzana VejvodovÃ¡ (Actor)";1
+http://data.linkedmdb.org/resource/performance/110355;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000008c40f39;1
+http://data.linkedmdb.org/resource/interlink/161104;0;"161104"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/writer/15573;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000047e286;1
+http://data.linkedmdb.org/resource/music_contributor/4539;0;"Elisabeth Lutyens";1
+http://data.linkedmdb.org/resource/director/19308;0;http://data.linkedmdb.org/resource/film/83590;1
+http://data.linkedmdb.org/resource/film/7217;0;http://data.linkedmdb.org/resource/performance/21938;1
+http://data.linkedmdb.org/resource/performance/15061;0;"15061"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/46754;0;"performance #46754";1
+http://data.linkedmdb.org/resource/performance/151391;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000af3f429;1
+http://data.linkedmdb.org/resource/performance/202;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000010c469e;1
+http://data.linkedmdb.org/resource/interlink/35869;0;"35869 (Interlink)";1
+http://data.linkedmdb.org/resource/actor/33262;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000002f47ff;1
+http://data.linkedmdb.org/resource/film_cut/26769;0;"Film Cut #26769";1
+http://data.linkedmdb.org/resource/film/54117;0;"The Devil's Chaplain";2
+http://data.linkedmdb.org/resource/interlink/3259;0;"3259 (Interlink)";1
+http://data.linkedmdb.org/resource/interlink/35800;0;"35800"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/62157;0;http://data.linkedmdb.org/resource/performance/126263;1
+http://data.linkedmdb.org/resource/production_company/1513;0;"Chimera Imaging";1
+http://data.linkedmdb.org/resource/performance/24334;0;"Kim Hyun-sung";1
+http://data.linkedmdb.org/resource/film_character/3313;0;"Professor Virgil (Film Character)";1
+http://data.linkedmdb.org/resource/actor/6132;0;http://dbpedia.org/resource/Joseph_Forte;1
+http://data.linkedmdb.org/resource/film/59833;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000009008af7;1
+http://data.linkedmdb.org/resource/actor/29800;0;http://data.linkedmdb.org/resource/performance/15154;1
+http://data.linkedmdb.org/resource/performance/193329;0;"performance #193329";1
+http://data.linkedmdb.org/resource/performance/40926;0;"performance #40926";1
+http://data.linkedmdb.org/resource/film/17234;0;"Life Interrupted";2
+http://data.linkedmdb.org/resource/film/2470;0;http://data.linkedmdb.org/resource/performance/3461;1
+http://data.linkedmdb.org/resource/film/13089;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000047e60e5;1
+http://data.linkedmdb.org/resource/film/14774;0;"Mundo GrÃºa";2
+http://data.linkedmdb.org/resource/film/8436;0;http://data.linkedmdb.org/resource/actor/34694;1
+http://data.linkedmdb.org/resource/film/82819;0;"Switchcraft";2
+http://data.linkedmdb.org/resource/writer/2832;0;"Vince Villani";1
+http://data.linkedmdb.org/resource/interlink/134795;0;http://data.linkedmdb.org/resource/film/887;1
+http://data.linkedmdb.org/resource/performance/172527;0;"172527"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film_cut/38142;0;"Film Cut #38142";1
+http://data.linkedmdb.org/resource/performance/48385;0;http://data.linkedmdb.org/resource/film_character/6399;1
+http://data.linkedmdb.org/resource/performance/197045;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000013010302;1
+http://data.linkedmdb.org/resource/performance/130132;0;"performance #130132";1
+http://data.linkedmdb.org/resource/performance/195230;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000130057c8;1
+http://data.linkedmdb.org/resource/performance/81717;0;"performance #81717";1
+http://data.linkedmdb.org/resource/actor/29960;0;http://data.linkedmdb.org/resource/performance/70534;1
+http://data.linkedmdb.org/resource/interlink/128004;0;"128004 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/156895;0;"performance #156895";1
+http://data.linkedmdb.org/resource/film/19537;0;"19537"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/43496;0;http://data.linkedmdb.org/resource/performance/33970;1
+http://data.linkedmdb.org/resource/performance/72342;0;"performance #72342";1
+http://data.linkedmdb.org/resource/director/18776;0;http://data.linkedmdb.org/resource/film/92279;1
+http://data.linkedmdb.org/resource/performance/41910;0;"performance #41910";1
+http://data.linkedmdb.org/resource/film/500;0;http://www.rottentomatoes.com/alias?type=imdbid&s=0239894;1
+http://data.linkedmdb.org/resource/actor/50160;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000046fb78e;1
+http://data.linkedmdb.org/resource/interlink/40942;0;http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/L%27App\u00C3\u00A2t;1
+http://data.linkedmdb.org/resource/performance/190627;0;"190627"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/142154;0;"142154"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/86625;0;"86625 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/29443;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000001123423;1
+http://data.linkedmdb.org/resource/film/3148;0;http://www.imdb.com/title/tt0460402;1
+http://data.linkedmdb.org/resource/film_cut/34859;0;"Film Cut #34859";1
+http://data.linkedmdb.org/resource/performance/186698;0;"KyÃ´suke Yabe";1
+http://data.linkedmdb.org/resource/performance/167629;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000c2fdbf6;1
+http://data.linkedmdb.org/resource/editor/3511;0;"Ewa Lind";1
+http://data.linkedmdb.org/resource/film/81979;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000c38a3b8;1
+http://data.linkedmdb.org/resource/film/89022;0;"CorazÃ³n de turco";2
+http://data.linkedmdb.org/resource/performance/145798;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000a25e9cd;1
+http://data.linkedmdb.org/resource/performance/160162;0;"performance #160162";1
+http://data.linkedmdb.org/resource/performance/137149;0;"performance #137149";1
+http://data.linkedmdb.org/resource/interlink/145634;0;"145634 (Interlink)";1
+http://data.linkedmdb.org/resource/director/13510;0;"Mr. Oizo (Director)";1
+http://data.linkedmdb.org/resource/film/44055;0;http://data.linkedmdb.org/resource/writer/15740;1
+http://data.linkedmdb.org/resource/writer/4581;0;"JosÃ© Antonio EscrivÃ¡ (Writer)";1
+http://data.linkedmdb.org/resource/actor/50032;0;"Thomas Heathcote";1
+http://data.linkedmdb.org/resource/actor/65486;0;http://data.linkedmdb.org/resource/performance/176723;1
+http://data.linkedmdb.org/resource/film_series/21;0;"Dracula: Prince of Darkness (Film Series)";1
+http://data.linkedmdb.org/resource/performance/179024;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000f2f318d;1
+http://data.linkedmdb.org/resource/performance/106702;0;"106702"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/36692;0;"Solveig Andersson";1
+http://data.linkedmdb.org/resource/interlink/156387;0;"156387 (Interlink)";1
+http://data.linkedmdb.org/resource/film/95661;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000fd96d8a;1
+http://data.linkedmdb.org/resource/director/1681;0;"Brian Trechand-Smith (Director)";1
+http://data.linkedmdb.org/resource/cinematographer/1318;0;"Sophia Constantinou (Cinematographer)";1
+http://data.linkedmdb.org/resource/film/29283;0;http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Head_Office;1
+http://data.linkedmdb.org/resource/writer/8337;0;http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Diane+Flacks;1
+http://data.linkedmdb.org/resource/actor/63917;0;"Maksim Konovalov";1
+http://data.linkedmdb.org/resource/performance/144472;0;"performance #144472";1
+http://data.linkedmdb.org/resource/director/10423;0;"Victor Gaviria (Director)";1
+http://data.linkedmdb.org/resource/actor/51397;0;"Ananya Khare (Actor)";1
+http://data.linkedmdb.org/resource/director/9670;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000003e460e;1
+http://data.linkedmdb.org/resource/interlink/125686;0;http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Wendy%2BEngelberg;1
+http://data.linkedmdb.org/resource/performance/162904;0;"162904"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/98009;0;http://data.linkedmdb.org/resource/actor/67994;1
+http://data.linkedmdb.org/resource/performance/64879;0;"Paul Lukas";1
+http://data.linkedmdb.org/resource/interlink/77936;0;http://data.linkedmdb.org/resource/film/22868;1
+http://data.linkedmdb.org/resource/film/65568;0;"Mister Cinderella (1936)";2
+http://data.linkedmdb.org/resource/actor/67556;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000010c67af9;1
+http://data.linkedmdb.org/resource/film/18330;0;"Three Rooms in Manhattan";2
+http://data.linkedmdb.org/resource/film_crew_gig/17197;0;"/guid/9202a8c04000641f800000001315ddae";1
+http://data.linkedmdb.org/resource/performance/40877;0;http://data.linkedmdb.org/resource/film_character/2173;1
+http://data.linkedmdb.org/resource/performance/176775;0;"performance #176775";1
+http://data.linkedmdb.org/resource/actor/46760;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000000d0b8d5;1
+http://data.linkedmdb.org/resource/film_crew_gig/2793;0;"Film Crew Gig #2793";1
+http://data.linkedmdb.org/resource/performance/36845;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000001139516;1
+http://data.linkedmdb.org/resource/film/14311;0;http://dbpedia.org/resource/Evening_%28film%29;1
+http://data.linkedmdb.org/resource/performance/108210;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000008101da5;1
+http://data.linkedmdb.org/resource/film/80952;0;http://data.linkedmdb.org/resource/performance/167229;1
+http://data.linkedmdb.org/resource/performance/176539;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000e72649a;1
+http://data.linkedmdb.org/resource/actor/33042;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000002cdd31;1
+http://data.linkedmdb.org/resource/actor/33621;0;http://data.linkedmdb.org/resource/performance/140206;1
+http://data.linkedmdb.org/resource/actor/8324;0;"Brenda Grate";1
+http://data.linkedmdb.org/resource/performance/194738;0;"194738"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/86741;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000db19052;1
+http://data.linkedmdb.org/resource/film/12953;0;http://data.linkedmdb.org/resource/writer/16291;1
+http://data.linkedmdb.org/resource/performance/81256;0;"Gandhi";1
+http://data.linkedmdb.org/resource/performance/88512;0;"Hong Kong 1941";1
+http://data.linkedmdb.org/resource/film/83442;0;"Hot House Backroom Exclusive Videos 7";2
+http://data.linkedmdb.org/resource/performance/102347;0;"Oil's Well That Ends Well";1
+http://data.linkedmdb.org/resource/performance/138301;0;"performance #138301";1
+http://data.linkedmdb.org/resource/interlink/136716;0;"136716 (Interlink)";1
+http://data.linkedmdb.org/resource/interlink/56645;0;"56645"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film_cut/4393;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000011083ce;1
+http://data.linkedmdb.org/resource/actor/1129;0;http://data.linkedmdb.org/resource/performance/144723;1
+http://data.linkedmdb.org/resource/performance/76401;0;"performance #76401";1
+http://data.linkedmdb.org/resource/film_character/13587;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000fda458b;1
+http://data.linkedmdb.org/resource/film/53132;0;http://data.linkedmdb.org/resource/performance/149238;1
+http://data.linkedmdb.org/resource/interlink/133228;0;"133228 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/91107;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000071ebaef;1
+http://data.linkedmdb.org/resource/performance/117869;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000008fd0c4e;1
+http://data.linkedmdb.org/resource/interlink/66872;0;"66872 (Interlink)";1
+http://data.linkedmdb.org/resource/producer/1596;0;"Marshall Persinger (Producer)";1
+http://data.linkedmdb.org/resource/film/21915;0;http://data.linkedmdb.org/resource/performance/102427;1
+http://data.linkedmdb.org/resource/director/21199;0;http://data.linkedmdb.org/resource/film/93764;1
+http://data.linkedmdb.org/resource/actor/37012;0;"Andrea Bowen (Actor)";1
+http://data.linkedmdb.org/resource/performance/114645;0;"performance #114645";1
+http://data.linkedmdb.org/resource/performance/4679;0;"performance #4679";1
+http://data.linkedmdb.org/resource/interlink/92925;0;http://dbpedia.org/resource/Mason_Gamble;1
+http://data.linkedmdb.org/resource/performance/162903;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000ba322df;1
+http://data.linkedmdb.org/resource/interlink/63015;0;"63015"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/79856;0;"79856 (Interlink)";1
+http://data.linkedmdb.org/resource/film/52703;0;"Hombisilu";2
+http://data.linkedmdb.org/resource/performance/112168;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000008c69e71;1
+http://data.linkedmdb.org/resource/film/46050;0;http://data.linkedmdb.org/resource/writer/13951;1
+http://data.linkedmdb.org/resource/music_contributor/6581;0;"6581"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/47808;0;http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Hangman%27s_Knot;1
+http://data.linkedmdb.org/resource/performance/26255;0;"performance #26255";1
+http://data.linkedmdb.org/resource/film/69113;0;"Ha'aki";2
+http://data.linkedmdb.org/resource/film/8536;0;http://data.linkedmdb.org/resource/performance/115195;1
+http://data.linkedmdb.org/resource/performance/26623;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000111a911;1
+http://data.linkedmdb.org/resource/film/53845;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000008024067;1
+http://data.linkedmdb.org/resource/interlink/161014;0;"161014 (Interlink)";1
+http://data.linkedmdb.org/resource/actor/59237;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000098519ab;1
+http://data.linkedmdb.org/resource/actor/6893;0;http://data.linkedmdb.org/resource/performance/28746;1
+http://data.linkedmdb.org/resource/film/39616;0;http://data.linkedmdb.org/resource/performance/140843;1
+http://data.linkedmdb.org/resource/performance/140522;0;"140522"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/192306;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000012ff00c5;1
+http://data.linkedmdb.org/resource/film/53153;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000007b6b163;1
+http://data.linkedmdb.org/resource/film/14780;0;http://data.linkedmdb.org/resource/performance/45465;1
+http://data.linkedmdb.org/resource/cinematographer/994;0;"Marcelo Iaccarino (Cinematographer)";1
+http://data.linkedmdb.org/resource/actor/52210;0;"Annalisa Ericson";1
+http://data.linkedmdb.org/resource/film/10484;0;"Svengali";2
+http://data.linkedmdb.org/resource/interlink/145147;0;"145147 (Interlink)";1
+http://data.linkedmdb.org/resource/performance/164864;0;http://data.linkedmdb.org/resource/film_character/11200;1
+http://data.linkedmdb.org/resource/interlink/138413;0;"138413"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/92205;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000e8779bb;1
+http://data.linkedmdb.org/resource/performance/199202;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000130e8171;1
+http://data.linkedmdb.org/resource/actor/42833;0;"Norman Alden";1
+http://data.linkedmdb.org/resource/performance/152054;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000b178cfa;1
+http://data.linkedmdb.org/resource/performance/2290;0;"performance #2290";1
+http://data.linkedmdb.org/resource/actor/46498;0;http://data.linkedmdb.org/resource/performance/22137;1
+http://data.linkedmdb.org/resource/interlink/40604;0;http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Dancer_Upstairs_%28film%29;1
+http://data.linkedmdb.org/resource/film_cut/25284;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000092bd39b;1
+http://data.linkedmdb.org/resource/interlink/14585;0;"14585 (Interlink)";1
+http://data.linkedmdb.org/resource/film/88390;0;"Me gusta esa chica";2
+http://data.linkedmdb.org/resource/interlink/52695;0;"52695 (Interlink)";1
+http://data.linkedmdb.org/resource/interlink/47279;0;"47279"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/48379;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000000d5b417;1
+http://data.linkedmdb.org/resource/interlink/157757;0;"157757 (Interlink)";1
+http://data.linkedmdb.org/resource/interlink/6846;0;http://dbpedia.org/resource/I_Wonder_Who%27s_Killing_Her_Now%3F;1
+http://data.linkedmdb.org/resource/interlink/26752;0;http://mpii.de/yago/resource/Chakra_%28film%29;1
+http://data.linkedmdb.org/resource/performance/170630;0;"170630"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/81074;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000070b682f;1
+http://data.linkedmdb.org/resource/film/62298;0;"62298"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film_cut/23914;0;"Film Cut #23914";1
+http://data.linkedmdb.org/resource/cinematographer/258;0;"Henning Kristiansen";1
+http://data.linkedmdb.org/resource/performance/68614;0;"68614"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/148803;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000aa65e4b;1
+http://data.linkedmdb.org/resource/interlink/121208;0;"121208 (Interlink)";1
+http://data.linkedmdb.org/resource/actor/55209;0;"Brett Clark (Actor)";1
+http://data.linkedmdb.org/resource/producer/15114;0;"Vinicio Musmanni (Producer)";1
+http://data.linkedmdb.org/resource/performance/198247;0;"performance #198247";1
+http://data.linkedmdb.org/resource/interlink/80646;0;"80646"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/21007;0;http://dbpedia.org/resource/Antha_Naal;1
+http://data.linkedmdb.org/resource/interlink/1030;0;"1030 (Interlink)";1
+http://data.linkedmdb.org/resource/film/41714;0;http://data.linkedmdb.org/resource/performance/89321;1
+http://data.linkedmdb.org/resource/interlink/124095;0;http://data.linkedmdb.org/resource/writer/3139;1
+http://data.linkedmdb.org/resource/performance/157679;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000b5e4a61;1
+http://data.linkedmdb.org/resource/film_cut/31374;0;"Film Cut #31374";1
+http://data.linkedmdb.org/resource/actor/67649;0;"Norman Yeung (Actor)";1
+http://data.linkedmdb.org/resource/performance/56654;0;http://www.freebase.com/view/guid/9202a8c04000641f8000000005a561a4;1
+http://data.linkedmdb.org/resource/actor/2574;0;"Curey Yuen";1
+http://data.linkedmdb.org/resource/actor/30059;0;http://data.linkedmdb.org/resource/performance/21918;1
+http://data.linkedmdb.org/resource/interlink/28905;0;"28905"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/interlink/41158;0;http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/I_Was_a_Teenage_Frankenstein%27s_Roommate;1
+http://data.linkedmdb.org/resource/cinematographer/2758;0;http://www.freebase.com/view/guid/9202a8c04000641f80000000048050de;1
+http://data.linkedmdb.org/resource/film_film_distributor_relationship/9843;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000b9467e3;1
+http://data.linkedmdb.org/resource/music_contributor/1610;0;"Micky Engels";1
+http://data.linkedmdb.org/resource/film/5085;0;http://www.imdb.com/title/tt0102136;1
+http://data.linkedmdb.org/resource/film_crew_gig/14214;0;"14214"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/film/45856;0;http://data.linkedmdb.org/resource/director/12009;1
+http://data.linkedmdb.org/resource/interlink/18422;0;"18422"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/175635;0;"performance #175635";1
+http://data.linkedmdb.org/resource/director/14879;0;http://data.linkedmdb.org/resource/film/86233;1
+http://data.linkedmdb.org/resource/actor/5562;0;"Somen Bose (Actor)";1
+http://data.linkedmdb.org/resource/interlink/57583;0;"57583 (Interlink)";1
+http://data.linkedmdb.org/resource/film/33053;0;http://mpii.de/yago/resource/Samurai_Rebellion;1
+http://data.linkedmdb.org/resource/writer/13320;0;"Michelangelo Antonioni (Writer)";1
+http://data.linkedmdb.org/resource/performance/161972;0;"performance #161972";1
+http://data.linkedmdb.org/resource/film/18810;0;http://data.linkedmdb.org/resource/performance/75347;1
+http://data.linkedmdb.org/resource/interlink/146565;0;"146565"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/32413;0;"performance #32413";1
+http://data.linkedmdb.org/resource/director/14155;0;http://data.linkedmdb.org/resource/film/78396;1
+http://data.linkedmdb.org/resource/actor/45086;0;"Sam Lee (Actor)";1
+http://data.linkedmdb.org/resource/film_cut/20414;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000807d46e;1
+http://data.linkedmdb.org/resource/interlink/124918;0;"124918 (Interlink)";1
+http://data.linkedmdb.org/resource/film_cut/31328;0;"Film Cut #31328";1
+http://data.linkedmdb.org/resource/film_character/5750;0;"Judy Maxwell (Film Character)";1
+http://data.linkedmdb.org/resource/film/45452;0;http://data.linkedmdb.org/resource/writer/911;1
+http://data.linkedmdb.org/resource/performance/106600;0;"Le Distrait";1
+http://data.linkedmdb.org/resource/performance/157890;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000b88e7c9;1
+http://data.linkedmdb.org/resource/performance/180495;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000f71409b;1
+http://data.linkedmdb.org/resource/performance/189496;0;"189496"^^<http://www.w3.org/2001/XMLSchema#int>;1
+http://data.linkedmdb.org/resource/performance/171891;0;http://www.freebase.com/view/guid/9202a8c04000641f800000000d0e8fd6;1
+http://data.linkedmdb.org/resource/film/50097;0;http://data.linkedmdb.org/resource/performance/43747;1

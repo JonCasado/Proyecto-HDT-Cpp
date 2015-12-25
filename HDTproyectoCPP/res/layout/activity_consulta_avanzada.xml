@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/sujeto"
+        style="@style/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/sujeto_hint"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/predicado"
+        style="@style/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/predicado_hint"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/objeto"
+        style="@style/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/objeto_hint"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/botonConsulta"
+        style="@style/boton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/BotonConsulta" />
+
+</LinearLayout>
